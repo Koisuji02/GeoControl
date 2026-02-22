@@ -1,4 +1,9 @@
 # GeoControl API
+![Cover](cover.webp)
+
+## Description
+GeoControl is a monitoring system designed to manage diƯerent kinds of sensors able to measure geological, meteorological, environmental, and other physical variables such as position, temperature, pressure, humidity, gas concentration.
+See the complete documentation under /doc folder
 
 ## Installation and Setup
 
